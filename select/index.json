@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ドゥームスクロール（feat. 宮川大聖）",
+  "base_artist": "claquepot",
+  "createdAt": "2026-02-28T13:04:12.324398Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドゥームスクロール (feat. 宮川大聖)",
+      "artist": "claquepot",
+      "has_synced": false,
+      "path": "select/pl_01_ドゥームスクロール_(feat._宮川大聖)_claquepot.txt"
+    }
+  ]
+}
